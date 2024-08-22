@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Del",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^31.3.1"
+  }
+}
